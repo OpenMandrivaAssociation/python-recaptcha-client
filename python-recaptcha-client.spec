@@ -1,5 +1,5 @@
 Name:           python-recaptcha-client
-Version:        1.0.5
+Version:        1.0.6
 Release:        %mkrel 1
 Summary:        Python module for reCAPTCHA and reCAPTCHA Mailhide
 
