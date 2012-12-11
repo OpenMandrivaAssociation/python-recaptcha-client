@@ -49,3 +49,14 @@ rm -rf $RPM_BUILD_ROOT
 %{python_sitelib}/recaptcha_client*-nspkg.pth
 %{python_sitelib}/recaptcha_client*.egg-info/
 
+
+
+%changelog
+* Mon May 02 2011 Guillaume Rousse <guillomovitch@mandriva.org> 1.0.6-1mdv2011.0
++ Revision: 662539
+- update to new version 1.0.6
+
+* Sun Nov 07 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 1.0.5-1mdv2011.0
++ Revision: 594396
+- import python-recaptcha-client
+
