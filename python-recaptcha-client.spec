@@ -5,7 +5,7 @@ Summary:        Python module for reCAPTCHA and reCAPTCHA Mailhide
 
 Group:          Development/Python
 License:        MIT
-URL:            http://pypi.python.org/pypi/recaptcha-client
+URL:            https://pypi.python.org/pypi/recaptcha-client
 Source0:        http://pypi.python.org/packages/source/r/recaptcha-client/recaptcha-client-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 
